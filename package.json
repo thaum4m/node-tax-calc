@@ -1,5 +1,5 @@
 {
-  "name": "node-tax-calc",
+  "name": "@thaum4m/node-tax-calc",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
