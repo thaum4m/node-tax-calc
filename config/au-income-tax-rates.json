@@ -1,0 +1,152 @@
+{
+  "2024-2025": [
+    {
+      "income_from": 0,
+      "income_to": 18200,
+      "base_tax": 0
+    },
+    {
+      "income_from": 18201,
+      "income_to": 45000,
+      "base_tax": 0,
+      "rules": [{ "income_above": 18200, "tax_per_dollar": 0.16 }]
+    },
+    {
+      "income_from": 45001,
+      "income_to": 135000,
+      "base_tax": 4288,
+      "rules": [{ "income_above": 45000, "tax_per_dollar": 0.3 }]
+    },
+    {
+      "income_from": 135001,
+      "income_to": 190000,
+      "base_tax": 31288,
+      "rules": [{ "income_above": 135000, "tax_per_dollar": 0.37 }]
+    },
+    {
+      "income_from": 190001,
+      "base_tax": 51638,
+      "rules": [{ "income_above": 190000, "tax_per_dollar": 0.45 }]
+    }
+  ],
+  "2023-2024": [
+    {
+      "income_from": 0,
+      "income_to": 18200,
+      "base_tax": 0
+    },
+    {
+      "income_from": 18201,
+      "income_to": 45000,
+      "base_tax": 0,
+      "rules": [{ "income_above": 18200, "tax_per_dollar": 0.19 }]
+    },
+    {
+      "income_from": 45001,
+      "income_to": 120000,
+      "base_tax": 5092,
+      "rules": [{ "income_above": 45000, "tax_per_dollar": 0.325 }]
+    },
+    {
+      "income_from": 120001,
+      "income_to": 180000,
+      "base_tax": 29467,
+      "rules": [{ "income_above": 120000, "tax_per_dollar": 0.37 }]
+    },
+    {
+      "income_from": 180001,
+      "base_tax": 51667,
+      "rules": [{ "income_above": 180000, "tax_per_dollar": 0.45 }]
+    }
+  ],
+  "2022-2023": [
+    {
+      "income_from": 0,
+      "income_to": 18200,
+      "base_tax": 0
+    },
+    {
+      "income_from": 18201,
+      "income_to": 45000,
+      "base_tax": 0,
+      "rules": [{ "income_above": 18200, "tax_per_dollar": 0.19 }]
+    },
+    {
+      "income_from": 45001,
+      "income_to": 120000,
+      "base_tax": 5092,
+      "rules": [{ "income_above": 45000, "tax_per_dollar": 0.325 }]
+    },
+    {
+      "income_from": 120001,
+      "income_to": 180000,
+      "base_tax": 29467,
+      "rules": [{ "income_above": 120000, "tax_per_dollar": 0.37 }]
+    },
+    {
+      "income_from": 180001,
+      "base_tax": 51667,
+      "rules": [{ "income_above": 180000, "tax_per_dollar": 0.45 }]
+    }
+  ],
+  "2021-2022": [
+    {
+      "income_from": 0,
+      "income_to": 18200,
+      "base_tax": 0
+    },
+    {
+      "income_from": 18201,
+      "income_to": 45000,
+      "base_tax": 0,
+      "rules": [{ "income_above": 18200, "tax_per_dollar": 0.19 }]
+    },
+    {
+      "income_from": 45001,
+      "income_to": 120000,
+      "base_tax": 5092,
+      "rules": [{ "income_above": 45000, "tax_per_dollar": 0.325 }]
+    },
+    {
+      "income_from": 120001,
+      "income_to": 180000,
+      "base_tax": 29467,
+      "rules": [{ "income_above": 120000, "tax_per_dollar": 0.37 }]
+    },
+    {
+      "income_from": 180001,
+      "base_tax": 51667,
+      "rules": [{ "income_above": 180000, "tax_per_dollar": 0.45 }]
+    }
+  ],
+  "2020-2021": [
+    {
+      "income_from": 0,
+      "income_to": 18200,
+      "base_tax": 0
+    },
+    {
+      "income_from": 18201,
+      "income_to": 45000,
+      "base_tax": 0,
+      "rules": [{ "income_above": 18200, "tax_per_dollar": 0.19 }]
+    },
+    {
+      "income_from": 45001,
+      "income_to": 120000,
+      "base_tax": 5092,
+      "rules": [{ "income_above": 45000, "tax_per_dollar": 0.325 }]
+    },
+    {
+      "income_from": 120001,
+      "income_to": 180000,
+      "base_tax": 29467,
+      "rules": [{ "income_above": 120000, "tax_per_dollar": 0.37 }]
+    },
+    {
+      "income_from": 180001,
+      "base_tax": 51667,
+      "rules": [{ "income_above": 180000, "tax_per_dollar": 0.45 }]
+    }
+  ]
+}

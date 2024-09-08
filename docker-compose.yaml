@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  node-tax-calc:
+    container_name: node-tax-calc
+    build: .    
+    volumes:
+      - ./:/app
+    stdin_open: true 
+    tty: true
