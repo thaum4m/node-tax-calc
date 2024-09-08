@@ -6,8 +6,6 @@ Unofficial command-line calculator for Australian resident income tax.
 
 Additional Australian resident income tax rates can be configured in `config/au-income-tax-rates.json`.
 
-## Requires
-
 ## Usage
 
 Install dependencies then run start script:
